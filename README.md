@@ -1,1 +1,72 @@
 # chtagpt-task-
++ ### 英文錯誤記錄
+
+    They will get married in April next year
+They'll get married next April.
+
+    They will buy their first house next month
+They'll buy their first house next month.
+
+    They are having a meeting.
+
+    Can you come to work early tomorrow?
+
+    Ben loves playing basketball tool .
+
+    Does your uncle like smoking ?
+
+    The waiter brings the fish and two glasses of wine to the table.
+
+    Ted accidentally spills his glass of wine on Bea's plate.
+
+    He doesn't know that person.
+
+    Do you today have classes ?
+
+    Do you drink beer ?
+
+    Do you know the time of that game?
+
+    Who going tomorrow to call you ?
+
+    Yes, fruits and vegetables are good for kids. 
+
+    Is the wine bad for the ?
+
+    He is taking photos.
+
+    What are they going to do on Wednesday?
+
+    Yes fruits and vegetables are for kids.
+
+    in place 
+
+    in place of 
+
+    in question 
+
+    with respect to 
+
+    on the second thoughts 
+
+    pay the way for 
+
+    make the best of with delight 
+
+    lost one's head
+
+    on (the/an) average 
+
+    on the basis of 
+
+    on/ off duty 
+
+    out of work 
+
+    in step with 
+
+    out of step 
+
+    around the corner 
+
+    on hand by heart
